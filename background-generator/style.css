@@ -1,0 +1,14 @@
+* {
+	margin: 0;
+	text-align: center;
+	margin-top: 40px;
+}
+
+body {
+	background: linear-gradient(to right, red, yellow);
+}
+
+h1, h2, h3 {
+	
+	color: white;
+}
